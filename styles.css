@@ -51,6 +51,6 @@ body{
     left: 50%;
     transform: translateX(-50%);
     border-radius: 50%;
-    background-color: grey;
-    box-shadow: 0 0 10px 0 rgb(146, 150, 173);
+    background-color: rgb(167, 147, 107);
+    box-shadow: 0 0 10px 0 rgb(167, 147, 107);
 }
